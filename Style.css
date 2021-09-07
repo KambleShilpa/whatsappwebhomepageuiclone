@@ -1,0 +1,77 @@
+.back-top{
+    background-color: #009688;
+    height: 15vh;
+}
+
+.back-main{
+    background-color: #D9DBD5;
+    height: 85vh;
+}
+
+.back-container{
+    position: relative;
+}
+
+.front-container{
+    position: absolute;
+    top:0px;
+    left: 0px;
+    right: 0px;
+}
+
+.chat-top{
+    background-color: #EDEDED;
+    min-height: 50px;
+}
+
+.front-container1{
+    position: absolute;
+    top:20px;
+    left: 0;
+    right: 0;
+}
+
+.profile-image{
+    height: 40px;
+    width: 40px;
+    margin-top: 5px;
+    /*margin-right: 205px;*/
+}
+
+.user-name{
+    padding: 3px;    
+    margin-left: -200px;
+}
+
+.contacts{
+    background-color: #fff;
+    min-height: 500px;
+}
+
+.contact-table-scroll{
+    overflow-y: scroll;
+    height: 500px;
+}
+
+.received-msg{
+    background-color: #fff; 
+}
+
+.sent-msg{
+    background-color: #DCF8C6;
+}
+
+.message-area{
+    
+    background-image: url("whatsappbg.png");
+    min-height: 500px;
+}
+
+.message-table-scroll{
+    overflow-y: scroll;
+    height: 450px;
+}
+
+.message-box{
+    background-color: #f0f0f0;
+}
